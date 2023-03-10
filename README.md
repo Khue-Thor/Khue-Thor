@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------
 
-I've been learning HTML, CSS and Javascript for 3 months.
+HTML, CSS, NPM, Node.js, REACT and Javascript.
 
 * 🌍  I'm based in Saint Paul
 * ✉️  You can contact me at [Khuephumy19@gmail.com](mailto:Khuephumy19@gmail.com)
