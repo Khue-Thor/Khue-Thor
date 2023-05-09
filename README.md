@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a e-commerce app<br>I'm looking to collaborate on web/app development<br>I'm looking for help with with developing search engine<br>I'm currently learning JS and Node.JS
+I'm currently working on chat-app<br>I'm looking to collaborate on web/app development<br>I'm currently learning JS and Node.JS
 
 
 ## 🌐 Socials:
