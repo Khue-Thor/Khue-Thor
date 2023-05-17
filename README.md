@@ -10,7 +10,7 @@ I'm currently working on chat-app<br>I'm looking to collaborate on web/app devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khue-Thor&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khue-Thor&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khue-Thor&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khue-Thor&icon=0&color=0)](https://visitcount.itsvg.in)
