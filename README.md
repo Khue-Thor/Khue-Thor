@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on chat-app<br>I'm looking to collaborate on web/app development<br>I'm currently learning JS and Node.JS<br>React dev and CCNP Looking to collaborate on apps with challenging networking issues.<br><br>
+React dev and CCNP Looking to collaborate on apps with challenging networking issues.
 
 
 ## 🌐 Socials:
